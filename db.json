@@ -14,6 +14,16 @@
       "id": 3,
       "name": "A Tribe Called Quest",
       "genre": "hip-hop"
+    },
+    {
+      "name": "Kanye West",
+      "genre": "hip-hop",
+      "id": 4
+    },
+    {
+      "name": "Kendrick Lamar",
+      "genre": "hip-hop",
+      "id": 5
     }
   ]
 }
